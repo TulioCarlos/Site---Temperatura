@@ -57,5 +57,3 @@ Qualquer feedback é bem-vindo. 💬
 Tulio Andrade
 LinkedIn: https://www.linkedin.com/in/tulio-andrade-821a10154
 GitHub: https://github.com/TulioCarlos
-
-Desenvolvedor em formação apaixonado por tecnologia, jogos e criar projetos que impactam positivamente. 🚀
